@@ -1,0 +1,2 @@
+E:\Users\Kuca\Desktop\AddonTemplate\AddonTemplate\bin\Debug\AddonTemplate.exe.config
+E:\Users\Kuca\Desktop\AddonTemplate\AddonTemplate\bin\Debug\Katarina.exe.config

@@ -1,0 +1,11 @@
+E:\Users\Kuca\Desktop\Katarina\Katarina\bin\Debug\Katarina.exe.config
+E:\Users\Kuca\Desktop\Katarina\Katarina\bin\Debug\Katarina.exe
+E:\Users\Kuca\Desktop\Katarina\Katarina\bin\Debug\Katarina.pdb
+E:\Users\Kuca\Desktop\Katarina\Katarina\bin\Debug\EloBuddy.dll
+E:\Users\Kuca\Desktop\Katarina\Katarina\bin\Debug\EloBuddy.SDK.dll
+E:\Users\Kuca\Desktop\Katarina\Katarina\bin\Debug\SharpDX.dll
+E:\Users\Kuca\Desktop\Katarina\Katarina\bin\Debug\SharpDX.Direct3D9.dll
+E:\Users\Kuca\Desktop\Katarina\Katarina\bin\Debug\Newtonsoft.Json.dll
+E:\Users\Kuca\Desktop\Katarina\Katarina\bin\Debug\EloBuddy.Sandbox.dll
+E:\Users\Kuca\Desktop\Katarina\Katarina\obj\Debug\Katarina.exe
+E:\Users\Kuca\Desktop\Katarina\Katarina\obj\Debug\Katarina.pdb
